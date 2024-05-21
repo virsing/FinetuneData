@@ -2,7 +2,7 @@
 general sft data
 
 # 通用sft data
-1、teknium/OpenHermes-2.5[OpenHermes-2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5)
+1、teknium/OpenHermes-2.5[OpenHermes-2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5) 
 Open Hermes 2/2.5 模型在 SOTA LLM 的基础上取得了重大进步，并以许多开源数据集和自定义创建的合成数据集的精确编译和管理为基础。
 Dataset Sources
 
