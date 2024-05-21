@@ -11,8 +11,7 @@ Dataset Sources
 - ChatBot Arena (GPT-4 Only) | By LMSys: [lmsys-chat-1m](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
 - Collective Cognition (09-11-2023) | By Teknium: [CollectiveCognition](https://huggingface.co/datasets/CollectiveCognition/chats-data-2023-09-22)
 - CoT Alpaca GPT4 | I have lost the source page for this dataset, sorry
-- Evol Instruct 70K && 140K |By WizardLM: [70K](https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_70k) [140k]
-(https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V2_196k)
+- Evol Instruct 70K && 140K |By WizardLM: [70K](https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_70k) [140k](https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V2_196k)
 - Glaive Code Assistant | By Sahil & Glaive: [glaive-code-assistant](https://huggingface.co/datasets/glaiveai/glaive-code-assistant)
 - GPT4-LLM | By Baolin Peng*, Chunyuan Li*, Pengcheng He*, Michel Galley, Jianfeng Gao [GPT4-LLM-Cleaned](https://huggingface.co/datasets/teknium/GPT4-LLM-Cleaned)
 - GPTeacher | By Teknium & Kuruminha: [GPTeacher](https://github.com/teknium1/GPTeacher)
