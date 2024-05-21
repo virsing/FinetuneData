@@ -2,7 +2,7 @@
 general sft data
 
 # 通用sft data
-1、teknium/OpenHermes-2.5[OpenHermes-2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5)  
+1、[teknium/OpenHermes-2.5](https://huggingface.co/datasets/teknium/OpenHermes-2.5)  
 Open Hermes 2/2.5 模型在 SOTA LLM 的基础上取得了重大进步，并以许多开源数据集和自定义创建的合成数据集的精确编译和管理为基础。一共100w条数据（1.94G）。
 Dataset Sources
 
@@ -22,5 +22,5 @@ Dataset Sources
 - ShareGPT (GPT4-Only) | By LMSys: [ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)
 - Unnatural Instructions GPT4
 
-2、huggingface/cosmopedia[cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)[github](https://github.com/huggingface/cosmopedia)  
+2、[huggingface/cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)[github](https://github.com/huggingface/cosmopedia)  
 Cosmopedia是一个由Mixtral-8x7B-Instruct-v0.1生成的合成textbooks、博客文章、故事、帖子和WikiHow文章的数据集。该数据集包含超过3000万个文件和250亿个tokens（92.2 GB），使其成为迄今为止最大的开放合成数据集。
