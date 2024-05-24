@@ -24,3 +24,8 @@ Dataset Sources
 
 2、[huggingface/cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)[github](https://github.com/huggingface/cosmopedia)  
 Cosmopedia是一个由Mixtral-8x7B-Instruct-v0.1生成的合成textbooks、博客文章、故事、帖子和WikiHow文章的数据集。该数据集包含超过3000万个文件和250亿个tokens（92.2 GB），使其成为迄今为止最大的开放合成数据集。
+
+3、[TIGER-Lab/WebInstructSub](https://huggingface.co/datasets/TIGER-Lab/WebInstructSub)[github](https://tiger-ai-lab.github.io/MAmmoTH2/)  
+网络语料库中存在大量高质量的教学数据，涵盖数学和科学等各个领域。三步流程包括从 Common Crawl 中调用文档、提取 QA 对并对其进行质量改进。这种方法产生了 1000 万个指令-响应对，为现有数据集提供了可扩展的替代方案，将精选的数据集命名为 WebInstruct。
+
+
