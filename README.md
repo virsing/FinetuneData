@@ -22,7 +22,7 @@ Dataset Sources
 - ShareGPT (GPT4-Only) | By LMSys: [ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)
 - Unnatural Instructions GPT4
 
-2、[huggingface/cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)、[github](https://github.com/huggingface/cosmopedia)  
+2、[huggingface/cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)、[github](https://github.com/huggingface/cosmopedia)、[blog](https://huggingface.co/blog/cosmopedia)  
 Cosmopedia是一个由Mixtral-8x7B-Instruct-v0.1生成的合成textbooks、博客文章、故事、帖子和WikiHow文章的数据集。该数据集包含超过3000万个文件和250亿个tokens（92.2 GB），使其成为迄今为止最大的开放合成数据集。
 
 3、[TIGER-Lab/WebInstructSub](https://huggingface.co/datasets/TIGER-Lab/WebInstructSub)、[github](https://tiger-ai-lab.github.io/MAmmoTH2/)  
