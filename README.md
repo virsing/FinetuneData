@@ -2,10 +2,10 @@
 general sft data
 
 # 通用预训练数据
-1、FineWeb、[blog]（https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1）（预训练）
+1、FineWeb、[blog](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 Hugging Face的一个团队发布了FineWeb数据集（15万亿 tokens，44TB）。技术报告详细介绍了该数据集的加工决策过程：FineWeb源自96个CommonCrawl快照，如何通过缜密的去重和过滤策略，比其他开放预训练数据集产生了表现更好的LLM的。
 
-2、[huggingface/cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)、[github](https://github.com/huggingface/cosmopedia)、[blog](https://huggingface.co/blog/cosmopedia)  （预训练）
+2、[huggingface/cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)、[github](https://github.com/huggingface/cosmopedia)、[blog](https://huggingface.co/blog/cosmopedia)
 Cosmopedia是一个由Mixtral-8x7B-Instruct-v0.1生成的合成textbooks、博客文章、故事、帖子和WikiHow文章的预训练数据集。该数据集包含超过3000万个文件和250亿个tokens（92.2 GB），使其成为迄今为止最大的开放合成数据集。
 
 
@@ -33,6 +33,6 @@ Dataset Sources
 2、[TIGER-Lab/WebInstructSub](https://huggingface.co/datasets/TIGER-Lab/WebInstructSub)、[github](https://tiger-ai-lab.github.io/MAmmoTH2/)、[paper](https://tiger-ai-lab.github.io/MAmmoTH2/)  
 微调数据集。网络语料库中存在大量高质量的教学数据，涵盖数学和科学等各个领域。三步流程包括从 Common Crawl 中调用文档、提取 QA 对并对其进行质量改进。这种方法产生了 1000 万个指令-响应对，为现有数据集提供了可扩展的替代方案，将精选的数据集命名为 WebInstruct。
 
-3、MAmmoTH2、[项目地址]（https://tiger-ai-lab.github.io/MAmmoTH2/）、[paper](https://arxiv.org/abs/2405.03548)、[github](https://github.com/TIGER-AI-Lab/MAmmoTH2)  
+3、MAmmoTH2、[项目地址](https://tiger-ai-lab.github.io/MAmmoTH2/)、[paper](https://arxiv.org/abs/2405.03548)、[github](https://github.com/TIGER-AI-Lab/MAmmoTH2)  
 作者提出了一种方法，从预训练网络语料库中高效地收集1000万条自然存在的指令数据，以增强大语言模型（LLM）的推理能力。作者的方法包括（1）检索相关文档，（2）提取指令-响应对，（3）使用开源LLM对提取的对进行精化。在这个数据集上对基础LLM进行微调，作者构建了MAmmoTH2模型，显著提升了推理基准测试的性能。特别是，MAmmoTH2-7B（Mistral）在MATH上的性能从11%提升至34%，在GSM8K上从36%提升至67%，而无需使用任何领域内数据进行训练。进一步在公共指令微调数据集上训练MAmmoTH2，得到了MAmmoTH2-Plus，实现了几个推理和聊天机器人基准测试的最新性能。作者的工作展示了如何在没有昂贵的人工注释或GPT-4精馏的情况下收集大规模、高质量的指令数据，为构建更好的指令微调数据提供了一个新范式。
 
